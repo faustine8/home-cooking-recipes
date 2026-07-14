@@ -7,10 +7,6 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '家常菜谱',
   description: '记录简单、好用的家常菜做法',
-  rewrites: {
-    'recipes/beef/芹菜炒牛肉/README.md': 'recipes/beef/芹菜炒牛肉/index.md',
-    'recipes/duck/川味香辣啤酒鸭/README.md': 'recipes/duck/川味香辣啤酒鸭/index.md'
-  },
   themeConfig: {
     nav: [{ text: '菜谱', link: '/' }],
     sidebar: [
