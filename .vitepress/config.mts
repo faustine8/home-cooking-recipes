@@ -22,6 +22,10 @@ export default defineConfig({
         items: [{ text: '香辣猪脚', link: '/recipes/pork/香辣猪脚/' }]
       },
       {
+        text: '鸡肉',
+        items: [{ text: '山药香菇乌鸡汤', link: '/recipes/chicken/山药香菇乌鸡汤/' }]
+      },
+      {
         text: '鸭肉',
         items: [{ text: '川味香辣啤酒鸭', link: '/recipes/duck/川味香辣啤酒鸭/' }]
       },
